@@ -1,14 +1,55 @@
-### Indresh Gahoi — Staff Software Engineer, Core Banking
+# Hi, I’m Indresh Gahoi
 
-I build systems that can't lose a transaction: statement delivery at 50M+/month
-and a ₹700 Cr/month charges-recovery platform at Kotak Mahindra Bank; before that
-Aurora Storage at AWS, payments at Tide, and VAT/seller systems at Amazon.
+### Staff Software Engineer | Technical Leader | Distributed Systems & FinTech
 
-**What I work on:** event-driven architecture · idempotent processing · DDD ·
-AWS (SQS, SNS, DynamoDB, Lambda, EKS) · Java, Go, Python
+I’m a software engineer and technical leader with **15 years of experience** building reliable, high-scale systems across **core banking, payments, cloud storage, and e-commerce**.
 
-**Currently:** writing about exactly-once effects on at-least-once queues,
-and building a reference `idempotent-consumer` implementation (coming soon).
+At **Kotak Mahindra Bank**, I lead engineering across two teams working on platforms including:
 
-**Open to:** architecture reviews, fractional staff-engineering, fixed-scope builds.
-→ [indreshgahoi.com](https://…) · [LinkedIn](https://www.linkedin.com/in/indresh-gahoi-56185b29/) · gahoi.indresh@gmail.com
+- A statement-generation system processing **50M+ statements per month**
+- A large-scale charges-recovery platform
+- Event-driven workflows designed for idempotency, failure recovery, and operational scalability
+
+Previously, I worked on:
+
+- **Aurora Storage and distributed database systems** at AWS
+- **Payments and ledger platforms** at Tide
+- **VAT and seller systems** at Amazon
+- **Cloud disaster-recovery systems** at Druva
+- **Offline-first mobile data synchronization** at TCS
+
+## Areas of Expertise
+
+- Distributed systems and event-driven architecture
+- Domain-Driven Design (DDD)
+- Idempotency, retries, reconciliation, and failure recovery
+- High-throughput batch and asynchronous processing
+- Cloud-native architecture on AWS
+- Technical strategy, architecture reviews, and engineering leadership
+
+## Technology
+
+**Languages:** Java, Go, Python, SQL  
+**Cloud:** AWS, EKS, Lambda, SQS, SNS, DynamoDB, S3  
+**Data:** PostgreSQL, MongoDB, Redis  
+**Architecture:** Microservices, DDD, event-driven systems, distributed systems
+
+## Currently Exploring and Building
+
+- Exactly-once business effects over at-least-once message delivery
+- A reference implementation of an `idempotent-consumer`
+- Practical architecture patterns for reliable financial systems
+- AI-assisted engineering workflows for design, development, and operational analysis
+
+## Let’s Connect
+
+I’m interested in:
+
+- Architecture and system-design reviews
+- Fractional Staff/Principal Engineer engagements
+- Fixed-scope backend and distributed-systems projects
+- Technical discussions and engineering collaboration
+
+[LinkedIn](https://www.linkedin.com/in/indreshgahoi/) ·
+[Resume](https://bit.ly/3TP5LFw) ·
+[Email](mailto:gahoi.indresh@gmail.com)
